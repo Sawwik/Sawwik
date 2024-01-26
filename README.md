@@ -17,7 +17,7 @@
 
 - ⚡ Fact **Focus on yourself**
 
-- 🗒️ Experiencies: Fivem 1 year Developer
+- 🗒️ Experiencies: Fivem 2 year Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
