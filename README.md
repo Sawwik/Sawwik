@@ -5,19 +5,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/chill-night-glitch-pixel-art-jyasefmidungcb3c.webp">
 
-- 🔭 I’m currently working on **2D Zombie openworld-game**
-
-- 🌱 I’m currently learning **GD-Script,Python**
-
-- 🤝 I’m looking for help with **With Website or Design of Web**
-
 - 📫 How to reach me (discord) **sawwik**
 
 - 📄 State [Czech republic]
 
-- ⚡ Fact **Focus on yourself**
+- ⚡ **Focus on yourself**
 
 - 🗒️ Experiencies: Fivem 2 year Developer
+  1 year script developing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
