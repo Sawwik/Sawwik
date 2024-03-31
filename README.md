@@ -25,7 +25,4 @@
 <p>🔧Not completed 🔧</p>
 [🟩🟩🟩🟩🟩🟩🟩◾️]
 
-
-<h1>OX Teleport</h1>
-<p>🔧Plans 🔧</p>
 <img align="bottom" alt="Coding" width="400" src="https://i.pinimg.com/736x/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg">
