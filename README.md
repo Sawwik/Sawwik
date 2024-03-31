@@ -21,10 +21,10 @@
 </p>
 
 <h1>My project's 📝</h1>
-<h3>∟🪴weed🪴</h3>
+
 <p>🔧Not completed 🔧</p>
 [🟩🟩🟩🟩🟩🟩🟩◾️]
-<img align="bottom" alt="Coding" width="400" src="https://i.imgur.com/cal3X3e.png">
+
 
 <h1>OX Teleport</h1>
 <p>🔧Plans 🔧</p>
