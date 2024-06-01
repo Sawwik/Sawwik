@@ -12,7 +12,6 @@
 - ⚡ **Focus on yourself**
 
 <h2> 🗒️ Experiencies: Fivem Developer +1 year</h2>
-<p>WayRP, NexGenRP, Los Santos Cruz RP, Kropka PVP, LVRP, Fexi RP</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
