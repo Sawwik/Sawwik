@@ -5,13 +5,11 @@
 
 
 
-- 📫 How to reach me (discord) **sawwik** [Him] 
+- 📫 How to reach me (discord) **sawwik**
 
 - 📄 State [Czech republic]
 
-- ⚡ **Focus on yourself**
-
-<h2> 🗒️ Experiencies: Fivem Developer +1 year</h2>
+- ⚡ **There's not tomorrow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
